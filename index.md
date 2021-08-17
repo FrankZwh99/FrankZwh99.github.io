@@ -1,8 +1,12 @@
-## Welcome to My Page
+# About Me
+I am currently a Master student at School of Computer Science, Carnegie Mellon University, studying Artificial Intelligence and Innovation.
+I received my undergraduate degree from University of Notre Dame in Applied Computational Mathematics and Stats, with supplementary major in Economics.
+[LinkedIn](www.linkedin.com/in/frank-zhu1) [GitHub](https://github.com/FrankZwh99) [Email](weihanzh@andrew.cmu.edu)
 
-You can use the [editor on GitHub](https://github.com/FrankZwh99/FrankZwh99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Icons -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[1.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
+[2.2]: https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png
 
 ### Markdown
 
